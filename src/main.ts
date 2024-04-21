@@ -22,7 +22,7 @@ import pinia from './store/index'
 // 暗黑模式的样式
 import 'element-plus/theme-chalk/dark/css-vars.css'
 
-//引入路由鉴权文件1
+//引入路由鉴权文件
 import './permisstion'
 
 // 自定义指令
