@@ -32,6 +32,7 @@ const app = createApp(App)
 app.use(ElementPlus, {
     locale: zhCn,
 })
+console.log(3)
 app.use(gloalComponent)
 app.use(router)
 app.use(pinia)
